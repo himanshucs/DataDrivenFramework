@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Rediff Automation">
   <suite-files>
-   <suite-file path="./SuitC.xml" />
+   <suite-file path="./SuitA.xml" />
    </suite-files>
 </suite>
