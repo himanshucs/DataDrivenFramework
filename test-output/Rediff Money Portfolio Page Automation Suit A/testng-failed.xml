@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rediff Money Portfolio Page Automation Suit A]">
+  <test name="Adding Stocks">
+    <classes>
+      <class name="com.sampleddf.core.ddf.loginpage.LoginPortfolio"/>
+    </classes>
+  </test> <!-- Adding Stocks -->
+</suite> <!-- Failed suite [Rediff Money Portfolio Page Automation Suit A] -->

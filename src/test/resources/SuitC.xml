@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rediff Money SigunUp Page Automation Suit C">
+	<test name="SignUp">
+	    <classes>
+	        <class name="com.sampleddf.core.ddf.signup.SignUp"></class>  
+	    </classes>
+	</test>		
+</suite>

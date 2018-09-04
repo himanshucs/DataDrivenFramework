@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30116" started-at="2018-08-20T17:15:23Z" finished-at="2018-08-20T17:15:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30116" started-at="2018-08-20T17:15:23Z" finished-at="2018-08-20T17:15:53Z">
+      <class name="com.sampleddf.core.ddf.signup.SignUp">
+        <test-method status="PASS" signature="Emailingini()[pri:0, instance:com.sampleddf.core.ddf.signup.SignUp@442675e1]" name="Emailingini" is-config="true" duration-ms="17" started-at="2018-08-20T22:45:23Z" finished-at="2018-08-20T22:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailingini -->
+        <test-method status="PASS" signature="BrowserTest()[pri:0, instance:com.sampleddf.core.ddf.signup.SignUp@442675e1]" name="BrowserTest" is-config="true" duration-ms="20248" started-at="2018-08-20T22:45:23Z" finished-at="2018-08-20T22:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserTest -->
+        <test-method status="PASS" signature="SignUpCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.sampleddf.core.ddf.signup.SignUp@442675e1]" name="SignUpCredentials" duration-ms="3548" started-at="2018-08-20T22:45:45Z" data-provider="getDataPos" finished-at="2018-08-20T22:45:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Darskah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Darskah@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Darskah@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpCredentials -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:com.sampleddf.core.ddf.signup.SignUp@442675e1]" name="QuitBrowser" is-config="true" duration-ms="4036" started-at="2018-08-20T22:45:49Z" finished-at="2018-08-20T22:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method status="PASS" signature="Emailing()[pri:0, instance:com.sampleddf.core.ddf.signup.SignUp@442675e1]" name="Emailing" is-config="true" duration-ms="5835" started-at="2018-08-20T22:45:53Z" finished-at="2018-08-20T22:45:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Emailing -->
+      </class> <!-- com.sampleddf.core.ddf.signup.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

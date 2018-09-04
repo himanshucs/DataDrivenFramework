@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rediff Money SigunUp Page Automation Suit C]">
+  <test name="SignUp">
+    <classes>
+      <class name="com.sampleddf.core.ddf.signup.SignUp"/>
+    </classes>
+  </test> <!-- SignUp -->
+  <test name="SignUp(failed)">
+    <classes>
+      <class name="com.sampleddf.core.ddf.signup.SignUp">
+        <methods>
+          <include name="QuitBrowser"/>
+          <include name="Emailingini"/>
+          <include name="BrowserTest"/>
+          <include name="LoginCredentials"/>
+          <include name="Emailing"/>
+        </methods>
+      </class> <!-- com.sampleddf.core.ddf.signup.SignUp -->
+    </classes>
+  </test> <!-- SignUp(failed) -->
+</suite> <!-- Failed suite [Rediff Money SigunUp Page Automation Suit C] -->

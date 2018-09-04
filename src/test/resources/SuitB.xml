@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Rediff Money Portfolio Page Automation Suit A">
+	<test name="Adding Stocks">
+	    <classes>
+	        <class name="com.sampleddf.core.ddf.mystocks.AddStocks"></class>  
+	    </classes>
+	</test>	
+	<test name="Stocks Posrtfolio Grid">
+	    <classes>
+	        <class name="com.sampleddf.core.ddf.mystocks.StockPortfolio"></class>  
+	    </classes>
+	</test>		
+</suite>

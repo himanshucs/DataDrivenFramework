@@ -1,0 +1,92 @@
+03/05/2018 08:44:52 devpinoyLogger Starting the Test --> Launch Browser
+03/05/2018 08:44:59 devpinoyLogger PASSED: Browser Launch Successful...
+03/05/2018 08:45:00 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_44_59_IST_2018.png
+03/05/2018 08:45:00 devpinoyLogger Ending the Test --> Launch Browser
+03/05/2018 08:45:00 devpinoyLogger Starting the Test -> URL Launch
+03/05/2018 08:45:02 devpinoyLogger PASSED: URL Launched Successfully
+03/05/2018 08:45:02 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_02_IST_2018.png
+03/05/2018 08:45:02 devpinoyLogger Ending the Test -> URL Launch
+03/05/2018 08:45:03 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:45:05 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:45:05 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_05_IST_2018.png
+03/05/2018 08:45:05 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:45:05 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:05 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:45:06 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:45:06 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_06_IST_2018.png
+03/05/2018 08:45:07 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:45:07 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:07 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:45:07 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:45:08 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_07_IST_2018.png
+03/05/2018 08:45:08 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:45:08 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:08 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:45:09 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:45:09 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_09_IST_2018.png
+03/05/2018 08:45:09 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:45:09 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:09 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:45:10 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:45:11 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_10_IST_2018.png
+03/05/2018 08:45:11 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:45:11 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:17 devpinoyLogger Starting the Test --> Launch Browser
+03/05/2018 08:45:20 devpinoyLogger PASSED: Browser Launch Successful...
+03/05/2018 08:45:21 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_20_IST_2018.png
+03/05/2018 08:45:21 devpinoyLogger Ending the Test --> Launch Browser
+03/05/2018 08:45:21 devpinoyLogger Starting the Test -> URL Launch
+03/05/2018 08:45:22 devpinoyLogger PASSED: URL Launched Successfully
+03/05/2018 08:45:23 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_22_IST_2018.png
+03/05/2018 08:45:23 devpinoyLogger Ending the Test -> URL Launch
+03/05/2018 08:45:23 devpinoyLogger Starting the Test --> Link on page calc
+03/05/2018 08:45:23 devpinoyLogger PASSED: Total Links Present on page--> 7
+03/05/2018 08:45:23 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_23_IST_2018.png
+03/05/2018 08:45:24 devpinoyLogger Ending the Test --> Link on page calc
+03/05/2018 08:45:24 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:45:29 devpinoyLogger Starting the Test --> Launch Browser
+03/05/2018 08:45:33 devpinoyLogger PASSED: Browser Launch Successful...
+03/05/2018 08:45:33 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_33_IST_2018.png
+03/05/2018 08:45:33 devpinoyLogger Ending the Test --> Launch Browser
+03/05/2018 08:45:33 devpinoyLogger Starting the Test -> URL Launch
+03/05/2018 08:45:35 devpinoyLogger PASSED: URL Launched Successfully
+03/05/2018 08:45:36 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_35_IST_2018.png
+03/05/2018 08:45:36 devpinoyLogger Ending the Test -> URL Launch
+03/05/2018 08:45:36 devpinoyLogger Starting the Test --> Checkbox Test on page
+03/05/2018 08:45:36 devpinoyLogger FAILED: Checkbox is un-checked 
+03/05/2018 08:45:36 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_45_36_IST_2018.png
+03/05/2018 08:45:36 devpinoyLogger Ending the Test --> Checkbox Test on page
+03/05/2018 08:45:36 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:46:04 devpinoyLogger Starting the Test --> Launch Browser
+03/05/2018 08:46:07 devpinoyLogger PASSED: Browser Launch Successful...
+03/05/2018 08:46:08 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_07_IST_2018.png
+03/05/2018 08:46:08 devpinoyLogger Ending the Test --> Launch Browser
+03/05/2018 08:46:08 devpinoyLogger Starting the Test -> URL Launch
+03/05/2018 08:46:10 devpinoyLogger PASSED: URL Launched Successfully
+03/05/2018 08:46:10 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_10_IST_2018.png
+03/05/2018 08:46:10 devpinoyLogger Ending the Test -> URL Launch
+03/05/2018 08:46:10 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:46:11 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:46:11 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_11_IST_2018.png
+03/05/2018 08:46:12 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:46:12 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:46:12 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:46:13 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:46:13 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_13_IST_2018.png
+03/05/2018 08:46:14 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:46:14 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:46:14 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:46:14 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:46:15 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_14_IST_2018.png
+03/05/2018 08:46:15 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:46:15 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:46:15 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:46:16 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:46:16 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_16_IST_2018.png
+03/05/2018 08:46:16 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:46:16 devpinoyLogger --------------------------------------------------------------------
+03/05/2018 08:46:16 devpinoyLogger Starting the Test --> Entering User Cred
+03/05/2018 08:46:17 devpinoyLogger PASSED: Login Failed - Either Username and password is incorrect.
+03/05/2018 08:46:18 devpinoyLogger Screenshot TakenF:\My Work\TECH DATA\seleniumproject\datadriven_core_framework\Screenshots\Thu_May_03_08_46_17_IST_2018.png
+03/05/2018 08:46:18 devpinoyLogger Ending the Test --> Entering User Cred
+03/05/2018 08:46:18 devpinoyLogger --------------------------------------------------------------------

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rediff Login Page Automation Suit B]">
+  <test name="Entering Credentials">
+    <classes>
+      <class name="com.sampleddf.core.ddf.testcases.LoginCredentials"/>
+    </classes>
+  </test> <!-- Entering Credentials -->
+</suite> <!-- Failed suite [Rediff Login Page Automation Suit B] -->

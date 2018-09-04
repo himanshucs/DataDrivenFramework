@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Rediff Login Page Automation Suit A]">
+  <test thread-count="5" name="Entering Credentials(failed)">
+    <classes>
+      <class name="com.sampleddf.core.ddf.testcases.LoginCredentials">
+        <methods>
+          <include name="EnterCred"/>
+          <include name="Emailingini"/>
+          <include name="QuitBrowser"/>
+          <include name="Emailing"/>
+          <include name="BrowserTest"/>
+        </methods>
+      </class> <!-- com.sampleddf.core.ddf.testcases.LoginCredentials -->
+    </classes>
+  </test> <!-- Entering Credentials(failed) -->
+  <test thread-count="5" name="Link Calculations Test(failed)">
+    <classes>
+      <class name="com.sampleddf.core.ddf.testcases.linkcalc">
+        <methods>
+          <include name="LinkCalc"/>
+          <include name="Emailingini"/>
+          <include name="BrowserTest"/>
+          <include name="Emailing"/>
+          <include name="QuitBrowser"/>
+        </methods>
+      </class> <!-- com.sampleddf.core.ddf.testcases.linkcalc -->
+    </classes>
+  </test> <!-- Link Calculations Test(failed) -->
+  <test thread-count="5" name="CheckBox Test(failed)">
+    <classes>
+      <class name="com.sampleddf.core.ddf.testcases.checkboxtest">
+        <methods>
+          <include name="Emailingini"/>
+          <include name="QuitBrowser"/>
+          <include name="CheckboxTest"/>
+          <include name="BrowserTest"/>
+          <include name="Emailing"/>
+        </methods>
+      </class> <!-- com.sampleddf.core.ddf.testcases.checkboxtest -->
+    </classes>
+  </test> <!-- CheckBox Test(failed) -->
+</suite> <!-- Failed suite [Rediff Login Page Automation Suit A] -->

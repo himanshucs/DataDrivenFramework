@@ -1,0 +1,14 @@
+1525398889953	geckodriver	INFO	geckodriver 0.19.1
+1525398889977	geckodriver	INFO	Listening on 127.0.0.1:2274
+1525398891154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Tejas\\AppData\\Local\\Temp\\rust_mozprofile.Q9Tzw6X9DS6x"
+Unable to read VR Path Registry from C:\Users\Tejas\AppData\Local\openvr\openvrpaths.vrpath
+1525398892666	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Tejas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Tejas\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Tejas\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5968] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3836] WARNING: pipe error: 109: fil1525398897508	Marionette	INFO	Listening on port 57719
+1525398897589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525398897615	Marionette	INFO	Listening on port 57719
+1525398897662	Marionette	DEBUG	loaded listener.js
