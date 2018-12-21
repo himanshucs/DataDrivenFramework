@@ -2,7 +2,7 @@ package com.sampleddf.core.ddf.common;
 
 //http://relevantcodes.com/Tools/ExtentReports2/javadoc/index.html?com/relevantcodes/extentreports/ExtentReports.html
 
-import java.io.File;
+//import java.io.File;
 import java.util.Date;
 
 import com.aventstack.extentreports.ExtentReports;

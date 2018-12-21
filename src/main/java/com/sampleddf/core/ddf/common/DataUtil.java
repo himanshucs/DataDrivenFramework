@@ -1,6 +1,6 @@
 package com.sampleddf.core.ddf.common;
 
-import java.util.Hashtable;
+//import java.util.Hashtable;
 
 public class DataUtil 
 {	
